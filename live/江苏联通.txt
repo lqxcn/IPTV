@@ -421,10 +421,13 @@ http://122.96.52.98:8006/JS_CUCC/G_NJYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEryO
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/TVBS新闻.png" tvg-name="TVBS新闻台",TVBS新闻台
-http://nn.7x9d.cn/mk.php?ip=59.125.245.58:1888&id=live1052
 http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/东森超视.png" tvg-name="东森超视",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/东森美洲.png" tvg-name="东森美洲",东森美洲
+https://t.freetv.fun/live/dong-sen-mei-zhou.m3u8
 http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/镜新闻.png" tvg-name="镜新闻",镜新闻
@@ -436,18 +439,15 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/台视新闻.png" tvg-name="台视新闻",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中视新闻.png" tvg-name="中视新闻 ",中视新闻
+http://119.91.7.169:2026/TW.php?id=中视新闻
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中天新闻.png" tvg-name="中天新闻 ",中天新闻 
-http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20173
-rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-rtmp://yj.zxhkuav.cn/live/yifatv-ztxw
-https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
 http://rihou.cc:555/tv/[Hv]中天新聞
+http://119.91.7.169:2026/TW.php?id=中天新闻台
+rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 http://rihou.cc:555/tv/[SZ]中天新闻
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-rtmp://123.156.165.47/live/yifatv-ztxw01
-rtmp://yj.zxhkuav.cn/live/yifatv-ztxw
-http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中旺电视.png" tvg-name="中旺电视 ",中旺电视 
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
