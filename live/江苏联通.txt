@@ -444,6 +444,18 @@ http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中旺电视.png" tvg-name="中旺电视 ",中旺电视 
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中三立新闻.png" tvg-name="三立新闻 ",三立新闻
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyrstjQwK1Qvfz8BPfBQJN13fqLIyX3q6w-21eR56d6OFJ8YfJ5IsyEV_zykMQXXgbIpFD9JwVVae3gfG-gGSCWOFcDsjWFXW_cdGNZ811RKVB-u7cP6qC8X4-YMKEKjQ7vUscFg9GN9cGC8IGO7HAW6jNOHzCh0VC0UAP1Llafvd1tl8Csp9inhyfakk6C9x9g.m3u8?u=1756878715
+
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中三立台湾.png" tvg-name="三立台湾 ",三立台湾
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyk_bgvynoks0SJDnLN4CmXc_Ph60csuAp6s8D-jOpyhneWu9PyXlnq4zmHkKe6SaaD8MDmus4XtV25_a4J5Nf689R2uM9deDWtKl-KdUahWIG340ihT8YFmCOF-c9T7S-OxX8f8zQx0rLt0lK2RW2C_W-DkxBnLt7n06iBCJ_3ayH_DHrGZxg1THdn9djYM7UQ.m3u8?u=1756878715
+
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中三立都会.png" tvg-name="三立都会 ",三立都会
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0Lyhe8D9-CeEZQOFp7zCqF24LuwRx6fPqGc9nVvRCSe8pURtD_rOyCY6te_lShE5e2UFnSlpJaPU9DnssY8P3sF0i-MGMgUUcjuPGzZVw7xPTPtxPe_0wca7LHPCUozbRcdFbsDj6-AD8DwPLxqTPhE-H3p6MpbpgmNwqIJjSMOxe7JembWOda5yJwdZG8QtJHRw.m3u8?u=1756878715
+
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中三立戏剧.png" tvg-name="三立戏剧 ",三立戏剧
+http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUbJ743LmobV-hahyo99Dy0iMtaecNz9tnYtH01FiUsUb6qR4dFICg6L0Onbaja4GsnBVvgZUkrm2m0otFPMr-K57iKJ9NxUIhMPUmDCJY3PFD68MQNaTkYc1P-6_z1IJaGNtGOHaBZkKTGrzkfhU5MxJyWB16_o4kmucfSPJA3pP6rWwIy165yv21zBJdNM_bbhdB40SRSwFz9rTQu0zTMA.m3u8?u=1756878715
+
 ==============================================================================================
 #EXTINF:-1 group-title="香港频道"  tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/TVBPlus.png"tvg-name="TVB PLUS",TVB PLUS
 https://o11.163189.xyz/stream/tvb/tvbp/
