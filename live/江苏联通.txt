@@ -432,9 +432,10 @@ http://rihou.cc:555/tv/[FY]邵氏喜剧
 http://112.86.202.37:8112/JSBC_iptv/C10000429@JSBC
 
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/睛彩竞技.png" tvg-name="睛彩竞技",睛彩竞技
-[1920*1080],http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000433@JSBC
 
-#EXTINF:-1 group-title="体育频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/睛彩篮球.png" tvg-name="睛彩篮球",睛彩篮球http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
+#EXTINF:-1 group-title="体育频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/睛彩篮球.png" tvg-name="睛彩篮球",睛彩篮球
+http://112.86.202.37:8112/JSBC_iptv/C10000431@JSBC
 
 #EXTINF:-1 group-title="体育频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/睛彩青少.png" tvg-name="睛彩青少",睛彩青少
 http://112.86.202.37:8112/JSBC_iptv/C10000428@JSBC
@@ -517,17 +518,14 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中天新闻.png" tvg-name="中天新闻 ",中天新闻 
-http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-http://rihou.cc:555/tv/[Hv]中天新聞
-http://119.91.7.169:2026/TW.php?id=中天新闻台
-rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-http://rihou.cc:555/tv/[SZ]中天新闻
-http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中旺电视.png" tvg-name="中旺电视 ",中旺电视 
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/国会频道1.png" tvg-name="国会频道1",国会频道1
+http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 
 ============================
 
