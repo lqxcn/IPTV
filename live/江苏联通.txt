@@ -1306,12 +1306,18 @@ http://112.86.202.37:8112/JSBC_iptv/C10000463@JSBC
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/广东卫视4K.png" tvg-name="广东卫视4K",广东卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
 
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/河北4K.png" tvg-name="河北4K",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/湖南卫视4K.png" tvg-name="湖南卫视4K",湖南卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000461@JSBC
 
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/江苏卫视4K.png" tvg-name="江苏卫视4K",江苏卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000454@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000455@JSBC
+
+#EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/南国都市4K.png" tvg-name="南国都市4K",南国都市4K
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/山东卫视4K.png" tvg-name="山东卫视4K",山东卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000465@JSBC
