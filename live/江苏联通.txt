@@ -367,6 +367,7 @@ http://122.96.52.98:8006/JS_CUCC/G_JINYING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtE
 http://112.86.202.37:8112/JSBC_iptv/C10000216@JSBC
 
 ======================
+
 #EXTINF:-1 group-title="上海频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/东方财经.png" tvg-name="东方财经",东方财经
 http://112.86.202.37:8112/JSBC_iptv/C10000420@JSBC
 
@@ -380,6 +381,45 @@ http://112.86.202.37:8112/JSBC_iptv/C10000423@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 
 ==========================
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/钱江.png" tvg-name="钱江",钱江
+钱江,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
+钱江,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江国际.png" tvg-name="浙江国际",浙江国际
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江教科影视.png" tvg-name="浙江教科影视",浙江教科影视
+浙江教科影视[1280*720],http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
+浙江教科影视[1920*1080],http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江经济生活.png" tvg-name="浙江经济生活",浙江经济生活
+浙江经济生活[1280*720],http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
+浙江经济生活[1920*1080],http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江民生休闲.png" tvg-name="浙江民生休闲",浙江民生休闲
+浙江民生休闲[1280*720],http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+浙江民生休闲[1920*1080],http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江少儿.png" tvg-name="浙江少儿",浙江少儿
+浙江少儿[1280*720],http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+浙江少儿[1920*1080],http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
+浙江卫视[1280*720],http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视[1920*1080],http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江新闻.png" tvg-name="浙江新闻",浙江新闻
+浙江新闻[1280*720],http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
+浙江新闻[1920*1080],http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/浙江之江纪录.png" tvg-name="浙江之江纪录",浙江之江纪录
+浙江之江纪录[1280*720],http://ali-xwl.cztv.com/live/channel12720Plxw.m3u8
+浙江之江纪录[1920*1080],http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
+
+==========================
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/TVBS.png" tvg-name="TVBS",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
