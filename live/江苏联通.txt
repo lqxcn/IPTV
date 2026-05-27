@@ -448,6 +448,7 @@ http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS.png" tvg-name="TVBS",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS新闻.png" tvg-name="TVBS新闻台",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
