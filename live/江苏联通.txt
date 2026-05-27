@@ -420,7 +420,7 @@ http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 
-#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/Zhejiang2.png" tvg-name="浙江经济生活",浙江经济生活
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/浙江经济生活.png" tvg-name="浙江经济生活",浙江经济生活
 http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 
