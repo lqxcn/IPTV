@@ -408,7 +408,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000424@JSBC
 
 ==========================
 
-#EXTINF:-1 group-title="浙江频道" tvglogo="https://gh.xxooo.cf/https://raw.githubusercontent. ads/main/logo/钱江.png" tvg-namelog",钱江
+#EXTINF:-1 group-title="浙江频道" tvg-logo="https://gh.xxooo.cf/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/钱江.png" tvg-namelog",钱江
 http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 
