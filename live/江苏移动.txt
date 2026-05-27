@@ -464,6 +464,7 @@ http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/TVBS新闻.png" tvg-name="TVBS新闻台",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+https://4gtv.158.qzz.io/163189/59c88c85-193e-4be8-a7ed-6e225192abf1/
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/镜新闻.png" tvg-name="镜新闻",镜新闻
