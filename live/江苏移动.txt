@@ -476,7 +476,7 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh.xxooo.cf/https://github.com/lqxcn/IPTV/blob/main/logo/中天新闻.png" tvg-name="中天新闻 ",中天新闻 
-rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
+http://rihou.cc:555/tv/[Hv]中天新聞rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
 rtmp://digital-live-pull.zegonetwork.com/live/nb-py-ztxw
 http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
 rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
