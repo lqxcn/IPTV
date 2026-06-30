@@ -328,7 +328,7 @@ http://122.96.52.98:8006/JS_CUCC/G_YANBIAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtE
 http://122.96.52.98:8006/JS_CUCC/G_YUNNAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEulJCh%2BGH2so9fYg69UqP3yx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
 
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/卫视.png" tvg-name="卫视",卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
 http://122.96.52.98:8006/JS_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoNd2dktho8dQKmJgOb8jA8sKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000044@JSBC
 
