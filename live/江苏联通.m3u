@@ -328,7 +328,7 @@ http://122.96.52.98:8006/JS_CUCC/G_YANBIAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtE
 http://122.96.52.98:8006/JS_CUCC/G_YUNNAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEulJCh%2BGH2so9fYg69UqP3yx4woq%2BKfxLKpgAY1SY7bF&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
 
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/卫视.png" tvg-name="卫视",卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/浙江卫视.png" tvg-name="浙江卫视",浙江卫视
 http://122.96.52.98:8006/JS_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoNd2dktho8dQKmJgOb8jA8sKmCmtZP3IrDnQs4NTrMF&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000044@JSBC
 
@@ -450,6 +450,9 @@ http://ali-xwl.cztv.com/live/channel121080Plxw.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS.png" tvg-name="TVBS",TVBS
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 
+#EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/寰宇新闻.png" tvg-name="寰宇新闻",寰宇新闻
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS新闻.png" tvg-name="TVBS新闻台",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
@@ -461,6 +464,7 @@ https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视新闻.png" tvg-name="民视新闻",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_1080p/video.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/台视新闻.png" tvg-name="台视新闻",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
@@ -699,7 +703,10 @@ http://110.42.52.180:6688/live/live.php?token=8O3reADW&id=xm9
 http://110.42.52.180:6688/live/live.php?token=8O3reADW&id=xm10
 
 
+============================
 
+#EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/VEVO.png" tvg-name="VEVO",VEVO
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
 ============================
 
