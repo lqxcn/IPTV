@@ -708,6 +708,15 @@ http://110.42.52.180:6688/live/live.php?token=8O3reADW&id=xm10
 #EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/VEVO.png" tvg-name="VEVO",VEVO
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
+#EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/MTV.png"  tvg-name="MTV",MTV US
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+#EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/MTV2.png"  tvg-name="MTV2",MTV2 US
+http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10427
+
+#EXTINF:-1 group-title="音乐频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo//MTV LIVE.png" tvg-name="MTV LIVE HD",MTV LIVE HD
+http://108.181.20.255:27347/livehttpplay?channel_id=23081
+
 ============================
 
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/北京卫视4K.png" tvg-name="北京卫视",北京卫视4K
