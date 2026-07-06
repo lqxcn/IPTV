@@ -543,6 +543,12 @@ http://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 group-title="影视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/重温经典.png" tvg-name="重温经典",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/华数.png" tvg-name="华数电影",华数电影
+http://hmfs.f3322.net:3388/hls/40/index.m3u8
+
+#EXTINF:-1 group-title="影视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/华数.png" tvg-name="华数动作影院",华数动作影院
+http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 group-title="影视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/梨园频道.png" tvg-name="梨园频道",梨园频道
 http://112.86.202.37:8112/JSBC_iptv/C10000235@JSBC
 
