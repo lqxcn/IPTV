@@ -1,0 +1,182 @@
+#EXTM3U name="4GTV - 2026-07-07"
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=492812" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS.png" tvg-name="TVBS",TVBS
+http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370174" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS新闻.png" tvg-name="TVBS新聞",TVBS新闻
+http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370175" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/东森财经新闻.png" tvg-name="東森財經新聞台",东森财经新闻
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370170" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/东森新闻.png" tvg-name="東森新聞台",东森新闻
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370171" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/华视新闻.png" tvg-name="華視新聞",华视新闻
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370179" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/寰宇新闻.png" tvg-name="寰宇新聞台",寰宇新闻
+http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=408104" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/寰宇新闻台湾.png" tvg-name="寰宇新聞台灣台",寰宇新闻台湾
+http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=457290" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天资讯.png" tvg-name="靖天資訊HD",靖天资讯
+http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370169" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/镜新闻.png" tvg-name="鏡電視新聞台",镜新闻
+http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370172" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视新闻.png" tvg-name="民視新聞台",民视新闻
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370173" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/三立新闻.png" tvg-name="三立新聞iNEWS",三立新闻
+http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370176" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/中视新闻.png" tvg-name="中視新聞",中视新闻
+http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+
+
+#EXTINF:-1 group-title="资讯频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370177" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/中天新闻.png" tvg-name="中天新聞台",中天新闻
+http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370245" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/amc电影台.png" tvg-name="amc電影台",amc电影
+http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370239" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/RockAction.png" tvg-name="ROCK Action",ROCK Action
+http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS台剧台.png" tvg-name="TVBS台剧",TVBS台剧
+http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370231" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/八大精彩.png" tvg-name="八大精彩台",八大精彩
+http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370240" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/采昌影剧.png" tvg-name="采昌影劇台",采昌影剧
+http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370246" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CinemaWorld.png" tvg-name="CinemaWorld",电影世界
+http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370226" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/公视戏剧.png" tvg-name="公視戲劇",公视戏剧
+http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370259" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/经典.png" tvg-name="經典電影台",经典电影
+http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370242" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天电影.png" tvg-name="靖天電影台",靖天电影
+,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370233" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天戏剧.png" tvg-name="靖天戲劇台",靖天戏剧
+http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370241" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天映画.png" tvg-name="靖天映畫",靖天映画
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370234" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖洋戏剧.png" tvg-name="靖洋戲劇台",靖洋戏剧
+http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="影视频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370244" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/影迷数位电影.png" tvg-name="影迷數位電影台",影迷数位电影
+http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370162" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/DreamWorks.png" tvg-name="DreamWorks 夢工廠動畫",梦工厂动画
+http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370157" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/liveabc.png" tvg-name="LiveABC互動英語頻道",互动英语
+http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370167" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/MOMO亲子.png" tvg-name="MOMO親子台",MOMO亲子
+http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370160" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/Nickjr.png" tvg-name="NNick Jr. 兒童頻道",Nick JR
+http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/Nickelodeon.png" tvg-name="NickeLodeon",NickeLodeon
+http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370158" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/Da Vinci.png" tvg-name="達文西頻道",Da Vinci
+http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370238" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/金光布袋戏.png" tvg-name="金光布袋戲",金光布袋戏
+http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370260" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/经典.png" tvg-name="經典卡通台",经典卡通
+http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370262" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/经典.png" tvg-name="精選動漫台",精选动漫
+http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="少儿频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370164" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖洋卡通.png" tvg-name="靖洋卡通Nice Bingo",靖洋卡通
+http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
+
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370140" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/大爱电视.png" tvg-name="大愛電視",大爱电视
+http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370250" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/大爱2.png" tvg-name="大愛二台",大爱二台
+http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370143" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/华视.png" tvg-name="華視",华视
+http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370150" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天综合.png" tvg-name="靖天綜合台",靖天综合
+http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370145" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/客家电视.png" tvg-name="客家電視台",客家电视
+http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370139" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视.png" tvg-name="民視",民视
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370137" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视第一台.png" tvg-name="民視第一台",民视第一
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370138" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视台湾.png" tvg-name="民視台灣台",民视台湾
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370251" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/人间卫视.png" tvg-name="人間衛視",人间卫视
+http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370144" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/三立综合.png" tvg-name="三立綜合台",三立综合
+http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=543802" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/原住民族电视.png" tvg-name="原住民族電視台",原住民族电视
+http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="综合频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370141" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/中视.png" tvg-name="中視",中视
+http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
+
+
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=495607" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS欢乐台.png" tvg-name="TVBS歡樂台",TVBS欢乐台
+http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370148" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS精采台.png" tvg-name="TVBS精采台",TVBS精采台
+http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS综艺台.png" tvg-name="TVBS综艺台",TVBS综艺台
+http://4gtv.cnlive.club/channel/49d6d25d/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370146" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/八大综艺台.png" tvg-name="八大綜藝台",八大综艺
+http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370188" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天国际.png" tvg-name="KLT-靖天國際台",靖天国际
+http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370189" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天欢乐.png" tvg-name="Nice TV 靖天歡樂台",靖天欢乐
+http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370151" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天日本.png" tvg-name="靖天日本台",靖天日本
+http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370187" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/靖天育乐.png" tvg-name="靖天育樂台",靖天育乐
+http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370185" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/民视综艺.png" tvg-name="民視綜藝台",民视综艺
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+
+#EXTINF:-1 group-title="娱乐频道"  x-tvg-url="https://epg.pw/api/epg.xml?channel_id=370186" catchup="catchup="append" catchup-source="?playseek=${start|yyyyMMddHHmmss|Asia/Shanghai}-${end|yyyyMMddHHmmss|Asia/Shanghai}" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/猪哥亮歌厅秀.png" tvg-name="豬哥亮歌廳秀",猪哥亮歌厅秀
+猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
+
+
