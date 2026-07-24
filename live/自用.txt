@@ -471,15 +471,7 @@ https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_10
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/中天新闻.png" tvg-name="中天新闻 ",中天新闻 
-rtmp://221.4.216.91/live/332123-ztxw
-rtmp://media.atmsiot.com/live/ztxw
-http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-rtmp://home.aceimage.cn/live/xiangjiaoge-ztxw
-http://rihou.cc:555/tv/[Hv]中天新聞
-rtmp://home.aceimage.cn/live/332123-ztxw
-https://4g.158.qzz.io/163189/60f5c767b807519a
-rtmp://ai.unispc.com/live/nb-py-ztxw
-
+http://173.208.234.146/live/ctinews.m3u8
 #EXTINF:-1 group-title="台湾频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/中旺电视.png" tvg-name="中旺电视 ",中旺电视 
 http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
 
