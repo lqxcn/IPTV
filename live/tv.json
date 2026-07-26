@@ -1,0 +1,29 @@
+{
+    "lives": [
+        {
+            "name": "咪咕App",
+            "type": 0,
+            "url": "https://migu.115yun.cc/ysctv",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "playerType": 2
+        },
+        {
+            "name": "直播No.1",
+            "type": 0,
+            "url": "https://live.zbds.top/tv/iptv4.txt",
+            "epg": "https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "playerType": 2,
+            "logo": "https://live.zbds.top/logo/{name}.png"
+        },
+        {
+            "name": "直播No.2",
+            "type": 0,
+            "url": "http://tv123.vvvv.ee/tv.m3u",
+            "playerType": 1,
+            "ua": "SYTV/1.6",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
