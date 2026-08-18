@@ -10,102 +10,82 @@ http://112.86.202.37:8112/JSBC_iptv/C10000037@JSBC
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV2.png" tvg-name="CCTV2",CCTV2财经
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEjLjmqq5VFTNlTRTIYZuPFEu0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000038@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv2&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV3.png" tvg-name="CCTV3",CCTV3综艺
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEgPYh7UYWZPIIdnB/iAqXWou0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000220@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv3&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV4.png" tvg-name="CCTV4",CCTV4中文国际
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEoaYUhARSOAZvaB4bPLfRG0u0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000039@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV4美洲.png" tvg-name="CCTV4美洲",CCTV4美洲
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4mz&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV4欧洲.png" tvg-name="CCTV4欧洲",CCTV4欧洲
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv4oz&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV5.png" tvg-name="CCTV5",CCTV5体育
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEozMH5mDAJP6SltbUTv3nN8u0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000221@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV5p.png" tvg-name="CCTV5+",CCTV5+体育赛事
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEp4x3ZVhpAE+HYVoOre4TusAXe+eZvUgolzXkq+y75Rg
 http://112.86.202.37:8112/JSBC_iptv/C10000040@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv5p&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV6.png" tvg-name="CCTV6",CCTV6电影
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEuwxwaoCGJY2cCtI9leQXrQu0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000222@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv6&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV7.png" tvg-name="CCTV7",CCTV7国防军事
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-7-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEo/nZmofd+rCFtc8Q50vu3Au0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000403@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv7&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV8.png" tvg-name="CCTV8",CCTV8电视剧
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEsFjysg6lHm9n5/vwbWNDQ0u0HPDaI8IXtpvkDaFJ1bH
 http://112.86.202.37:8112/JSBC_iptv/C10000223@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV9.png" tvg-name="CCTV9",CCTV9纪录
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-9-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtElGagliwFIk+luGBbGdVUbc02fQ712gaPW1S8iZfrxPb
 http://112.86.202.37:8112/JSBC_iptv/C10000042@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv9&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV10.png" tvg-name="CCTV10",CCTV10科教
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-10-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtErwM4PQmmUbDAbEG18NJ7ON4LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000119@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv10&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV11.png" tvg-name="CCTV11",CCTV11戏曲
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-11-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEglwOR0THVROxuCQpsWEgp14LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000402@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv11&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV12.png" tvg-name="CCTV12",CCTV12社会与法
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-12-HD.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEvskw9SxptiBzf0Vc8ipYKN4LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000120@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv12&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV13.png" tvg-name="CCTV13",CCTV13新闻
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-13-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEkjL6a8QWp3FPxxMdEg8/3R4LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000232@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000443@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv13&zy.m3u8
 http://74.91.26.218:82/live/cctv13hd.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV14.png" tvg-name="CCTV14",CCTV14少儿
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-14-HD.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEo3RDHuXMRWK8VyFam4v/tV4LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000121@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv14&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV15.png" tvg-name="CCTV15",CCTV15音乐
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-15-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEr2cMh1na7Xi9YCb22Tii5B4LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000404@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv15&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV16.png" tvg-name="CCTV16",CCTV16奥林匹克
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEj7L5TMaaLEN8QSSnoeVsO94LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000193@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv61&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV17.png" tvg-name="CCTV17",CCTV17农业农村
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=+LV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol
 http://112.86.202.37:8112/JSBC_iptv/C10000041@JSBC
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv17&zy.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV4K.png" tvg-name="CCTV4K",CCTV4K
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 http://192.151.150.154/live/cctv4k.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV8K.png" tvg-name="CCTV8K",CCTV8K
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctv8k&zy.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 http://192.151.150.154/live/cctv8k.m3u8
 
@@ -117,7 +97,6 @@ http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/第一剧场.png" tvg-name="第一剧场",第一剧场
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvdyjcpd&zy.m3u
 http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/dyjc.m3u8
 
@@ -130,7 +109,6 @@ http://192.151.150.154/live/fxzl.m3u8
 http://124.77.202.8:49155/624878970
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/风云剧场.png" tvg-name="风云剧场",风云剧场
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvfyjcpd&zy.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/fyjc.m3u8
 
@@ -145,7 +123,6 @@ http://207.56.13.146:81/cdnlive/gefwq.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/怀旧剧场.png" tvg-name="怀旧剧场",怀旧剧场
-http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=cctvhjjcpd&zy.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/hjjc.m3u8
 http://192.151.150.154/live/hjjc.m3u8
