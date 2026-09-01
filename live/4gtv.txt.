@@ -1,4 +1,4 @@
-#EXTM3U name="4GTV - 2026-07-07" x-tvg-url="https://raw.githubusercontent.com/myhomebox/EPG/main/output/4g.xml" catchup="catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U name="4GTV - 2026-07-07" x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/myhomebox/EPG/main/output/4g.xml" catchup="catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 group-title="资讯频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/TVBS.png" tvg-name="TVBS",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
