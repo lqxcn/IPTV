@@ -89,9 +89,6 @@ http://192.151.150.154/live/cctv4k.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 http://192.151.150.154/live/cctv8k.m3u8
 
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/CCTV8K.png" tvg-name="CCTV8K",CCTV8K
-http://112.86.202.37:8112/JSBC_iptv/C10000448@JSBC
-
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/lqxcn/IPTV/refs/heads/main/logo/兵器科技.png" tvg-name="兵器科技",兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 http://207.56.13.146:81/cdnlive/gfjs.m3u8
